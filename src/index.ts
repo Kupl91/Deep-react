@@ -1,3 +1,4 @@
-import { someFN } from "./test";
+//src\index.ts
+import {someFn} from './test'
 
-someFN(123)
+someFn(123)
