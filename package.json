@@ -1,5 +1,5 @@
 {
-  "name": "deep-react",
+  "name": "production_project_code_course",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build:dev": "webpack --env mode=development"
   },
   "keywords": [],
-  "author": "Kupl91",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^17.0.21",
